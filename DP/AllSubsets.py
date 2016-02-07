@@ -11,13 +11,6 @@ class Solution:
 			
 		print result
 
-
-
-
-
-
-
-
 so = Solution()
 so.getSubsets([1,2,3])
 
